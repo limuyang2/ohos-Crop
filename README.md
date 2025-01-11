@@ -23,7 +23,6 @@ OpenHarmony Image crop（鸿蒙图片裁剪库）
 
 ## 预览
 ![gif](https://gitee.com/limuyang2/ohos-crop/raw/master/preview.gif)
-[预览](https://gitee.com/limuyang2/ohos-crop/blob/master/preview.gif)
 
 ## 使用方法
 ```ts
