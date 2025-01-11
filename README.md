@@ -22,8 +22,8 @@ OpenHarmony Image crop（鸿蒙图片裁剪库）
 - 色相（规划中，待实现）
 
 ## 预览
-![gif](https://img.picgo.net/2025/01/11/preview13411380f796a56a.gif)
-[预览](https://img.picgo.net/2025/01/11/preview13411380f796a56a.gif)
+![gif](https://gitee.com/limuyang2/ohos-crop/blob/master/preview.gif)
+[预览](https://gitee.com/limuyang2/ohos-crop/blob/master/preview.gif)
 
 ## 使用方法
 ```ts
