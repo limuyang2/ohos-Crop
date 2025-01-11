@@ -1,0 +1,44 @@
+{
+  "color": [
+    {
+      "name": "crop_page_bg",
+      "value": "#FFFFFFFF"
+    },
+    {
+      "name": "crop_page_bg_dark",
+      "value": "#FF2C2C2C"
+    },
+    {
+      "name": "crop_page_title",
+      "value": "#1F1F1F"
+    },
+    {
+      "name": "crop_page_title_dark",
+      "value": "#f6f6f6"
+    },
+    {
+      "name": "crop_page_ok",
+      "value": "#1F1F1F"
+    },
+    {
+      "name": "crop_page_ok_dark",
+      "value": "#f6f6f6"
+    },
+    {
+      "name": "crop_page_action",
+      "value": "#2c2c2c"
+    },
+    {
+      "name": "crop_page_action_dark",
+      "value": "#e6e6e6"
+    },
+    {
+      "name": "crop_page_mask",
+      "value": "#b3e0e0e0"
+    },
+    {
+      "name": "crop_page_mask_dark",
+      "value": "#B32C2C2C"
+    }
+  ]
+}

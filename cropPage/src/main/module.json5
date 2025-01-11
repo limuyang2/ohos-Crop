@@ -1,0 +1,19 @@
+{
+  "module": {
+    "name": "cropPage",
+    "type": "har",
+    "deviceTypes": [
+      "default",
+      "tablet",
+      "2in1"
+    ],
+    "routerMap": "$profile:route_map",
+    "metadata": [
+      {
+        "name": "ContextResourceConfigLoadFromParentTemp",
+        "value": "true"
+      }
+    ]
+
+  }
+}

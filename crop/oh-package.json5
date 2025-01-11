@@ -1,0 +1,21 @@
+{
+  "name": "@mumu/crop",
+  "version": "1.0.0",
+  "description": "鸿蒙图片裁剪组件(Image cropping component.)",
+  "main": "Index.ets",
+  "author": "limuyang",
+  "license": "MIT",
+  "homepage": "https://github.com/limuyang2",
+  "repository": "https://github.com/limuyang2/ohos-Crop",
+  "keywords": [
+    "crop",
+    "cut",
+    "图片裁剪"
+  ],
+  "tags": [
+    "图片裁剪",
+    "crop",
+    "cut"
+  ],
+  "dependencies": {}
+}

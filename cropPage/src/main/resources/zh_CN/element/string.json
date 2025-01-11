@@ -1,0 +1,28 @@
+{
+  "string": [
+    {
+      "name": "crop_page_title",
+      "value": "裁剪"
+    },
+    {
+      "name": "crop_page_ok",
+      "value": "确定"
+    },
+    {
+      "name": "crop_page_rotate",
+      "value": "旋转"
+    },
+    {
+      "name": "crop_page_h_flip",
+      "value": "水平"
+    },
+    {
+      "name": "crop_page_v_flip",
+      "value": "垂直"
+    },
+    {
+      "name": "crop_page_grayscale",
+      "value": "灰度"
+    }
+  ]
+}

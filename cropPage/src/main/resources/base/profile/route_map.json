@@ -1,0 +1,9 @@
+{
+  "routerMap": [
+    {
+      "name": "crop://image_crop_page",
+      "pageSourceFile": "src/main/ets/components/ImageCutPage.ets",
+      "buildFunction": "ImageCropPageBuilder"
+    }
+  ]
+}

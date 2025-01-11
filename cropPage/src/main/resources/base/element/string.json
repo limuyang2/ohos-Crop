@@ -1,0 +1,28 @@
+{
+  "string": [
+    {
+      "name": "crop_page_title",
+      "value": "Crop"
+    },
+    {
+      "name": "crop_page_ok",
+      "value": "Confirm"
+    },
+    {
+      "name": "crop_page_rotate",
+      "value": "Rotate"
+    },
+    {
+      "name": "crop_page_h_flip",
+      "value": "Horizontal"
+    },
+    {
+      "name": "crop_page_v_flip",
+      "value": "Vertical"
+    },
+    {
+      "name": "crop_page_grayscale",
+      "value": "Vertical"
+    }
+  ]
+}
