@@ -5,7 +5,13 @@ OpenHarmony Image crop（鸿蒙图片裁剪库）
 ⚠️重要：此为图片裁剪的核心组件，**不包含页面！如果你不想自己实现页面，可以使用 [CropPage](https://gitee.com/limuyang2/ohos-crop/tree/master/cropPage) 库，里面包含了基本的裁剪功能，方便你快速使用**。
 🔔 同时，依然建议你使用本库的 `CropView` 组件实现自己的页面，更符合你的样式要求。
 
+## 安装
+```
+ohpm install @mumu/crop
+```
+
 ## 特点
+- 小巧简单，适用于普通业务的图片裁剪，非专业性的裁剪。如有图片专业性处理的需求，请需求其他开源库。
 - 代码规范
 - 注释规范
 - 越界回弹动画
