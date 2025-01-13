@@ -1,6 +1,6 @@
 {
   "name": "@mumu/crop",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "鸿蒙图片裁剪组件(Image cropping component.)",
   "main": "Index.ets",
   "author": "limuyang",
