@@ -6,7 +6,7 @@
   "author": "",
   "license": "",
   "dependencies": {
-    "@mumu/crop_page": "file:../cropPage"
+    "@mumu/crop_page": "file:../cropPage",
   }
 }
 

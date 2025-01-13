@@ -18,6 +18,6 @@
     "cut"
   ],
   "dependencies": {
-    "@mumu/crop": "V1.0.0"
+    "@mumu/crop": "1.0.0"
   }
 }
