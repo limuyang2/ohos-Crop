@@ -1,6 +1,6 @@
 {
   "name": "@mumu/crop_page",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "鸿蒙图片裁剪页面(Image cropping page.)",
   "main": "Index.ets",
   "author": "limuyang",

@@ -10,6 +10,8 @@ OpenHarmony Image crop（鸿蒙图片裁剪库）
 ohpm install @mumu/crop
 ```
 
+最低支持到 API 12
+
 ## 特点
 - 小巧简单，适用于普通业务的图片裁剪，非专业性的裁剪。如有图片专业性处理的需求，请寻求其他开源库。
 - 代码规范
