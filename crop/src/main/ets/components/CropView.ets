@@ -15,11 +15,14 @@ export struct CropView {
    * 控制器，只能设置一次
    */
   @Require @Once @Param controller: CropController = new CropController()
-  @Param clipOut: boolean = true
   /**
    * 图片路径/位图
    */
   @Require @Param src: string | PixelMap = ''
+  /**
+   * 超出控件边界的是否裁剪掉（用于实现特殊的UI效果）
+   */
+  @Param clipOut: boolean = true
   /**
    * 遮罩颜色，默认70%透明度的黑色
    */
