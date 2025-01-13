@@ -5,6 +5,11 @@ OpenHarmony Image crop（鸿蒙图片裁剪库）
 ⚠️**仅适用 Stage 模式**
 ⚠️重要：CropPage 库，页面里面包含了基本的裁剪功能，方便你快速使用，**如果你需要完全自由且个性化的页面样式，请使用 CropView 库，自行实现页面**。
 
+## 安装
+```
+ohpm install @mumu/crop_page
+```
+
 ## 特点
 - 高斯模糊
 - 简单快捷
