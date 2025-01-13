@@ -14,12 +14,12 @@ export struct CropView {
   /**
    * 控制器，只能设置一次
    */
-  @Once @Param controller: CropController = new CropController()
+  @Require @Once @Param controller: CropController = new CropController()
   @Param clipOut: boolean = true
   /**
    * 图片路径/位图
    */
-  @Param src: string | PixelMap = ''
+  @Require @Param src: string | PixelMap = ''
   /**
    * 遮罩颜色，默认70%透明度的黑色
    */
