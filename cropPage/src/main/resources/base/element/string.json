@@ -22,7 +22,7 @@
     },
     {
       "name": "crop_page_grayscale",
-      "value": "Vertical"
+      "value": "Grayscale"
     }
   ]
 }
