@@ -546,7 +546,7 @@ export class CropController {
     }
 
     return this.copyPixelMap(this.srcPixelMap).then(pm => {
-      pm.flip(horizontal, vertical)
+      pm.flipSync(horizontal, vertical)
       this.srcPixelMap?.release()
       this.srcPixelMap = pm
     })
