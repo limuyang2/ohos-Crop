@@ -1,5 +1,8 @@
 # CHANGELOG
 
+## [v1.0.3]
+- 新增 `cropWithFile()` 方法
+
 ## [v1.0.2]
 - 修复图片翻转问题
 

@@ -721,8 +721,8 @@ export class CropController {
       let file: fs.File = fs.openSync(dstUri, fs.OpenMode.READ_WRITE | fs.OpenMode.CREATE)
       return imagePackerApi.packToFile(pm, file.fd, option).then(() => {
         pm.release()
+        fileIo.close(file.fd)
         return imagePackerApi.release().then(() => {
-          fileIo.close(file.fd)
           return file
         })
       })
