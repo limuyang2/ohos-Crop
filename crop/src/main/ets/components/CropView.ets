@@ -705,6 +705,15 @@ export class CropController {
    * 获取裁剪的图片文件路径
    */
   public cropWithPath(option: image.PackingOption = { format: 'image/png', quality: 100 }) {
+    return this.cropWithFile(option).then((file) => {
+      return file.path
+    })
+  }
+
+  /**
+   * 获取裁剪的图片文件
+   */
+  public cropWithFile(option: image.PackingOption = { format: 'image/png', quality: 100 }) {
     return this.crop().then((pm) => {
       let imagePackerApi = image.createImagePacker()
       let tempDir: string = getContext().getApplicationContext().tempDir
@@ -714,7 +723,7 @@ export class CropController {
         pm.release()
         return imagePackerApi.release().then(() => {
           fileIo.close(file.fd)
-          return file.path
+          return file
         })
       })
     })
